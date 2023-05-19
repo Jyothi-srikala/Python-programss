@@ -1,0 +1,8 @@
+def isPowerOfFour(self,n: int):
+    m=0*AAAAAAAAAAAA
+    if n==1:
+        return True
+    if n>0 and m&n==0 and n&(n-1):
+        return True
+    else:
+        return False
